@@ -1,0 +1,23 @@
+html {background-color: black;}
+
+* {font-family: Tahoma, Geneva, Verdana, sans-serif;color: pink;}
+
+/* headers */
+
+h1 {font-size: 70px;}
+
+h3 {font-size: 30px;}
+
+h4 {font-size: 20px;text-decoration: underline;}
+
+/* anchors */
+
+a {color: blueviolet;}
+
+
+/* images */
+
+img {width: 800px;height: auto;}
+
+img.too_wide {width: 500px;height: auto;}
+
