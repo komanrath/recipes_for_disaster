@@ -7,7 +7,9 @@ html {background:black}
 
 h1 {font-size: 70px;}
 
-h3 {font-size: 30px;}
+h1.index-heading {font-size: 70px;border: 200px solid rgb(100 58 86);border-top: 150px solid rgb(100 58 86);border-right: 280px solid rgb(217, 235, 184);padding: 70px;margin: -10px -8px 900px -8px;}
+
+h3 {font-size: 30px;margin-top: 20px;}
 
 h4 {font-size: 20px;text-decoration: underline;}
 
@@ -21,6 +23,6 @@ a.main {font-size: 20px;}
 
 /* images */
 
-img {width: 800px;height: auto;border: 90px pink solid;border-image:radial-gradient(circle, rgb(100 218 114) 0%, #d9ebb7 76%, rgb(100 58 86) 94%) 30 50;border-image-outset: 1rem;}
+img {width: 800px;height: auto;margin-bottom: 20px; border: 90px pink solid;border-image:radial-gradient(circle, rgb(100 218 114) 0%, #d9ebb7 76%, rgb(100 58 86) 94%) 30 50;border-image-outset: 1rem;}
 
 img.too_wide {width: 500px;height: auto;}
