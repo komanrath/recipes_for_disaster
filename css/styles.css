@@ -1,13 +1,13 @@
 html {background:black}
 
-* {font-family: Tahoma, Geneva, Verdana, sans-serif;color: #faffc0;}
+* {font-family: Tahoma, Geneva, Verdana, sans-serif;color: #faffc0;box-sizing: border-box;}
 
 
 /* headers */
 
 h1 {font-size: 70px;}
 
-h1.index-heading {font-size: 70px;border: 200px solid rgb(100 58 86);border-top: 150px solid rgb(100 58 86);border-right: 280px solid rgb(217, 235, 184);padding: 70px;margin: -10px -8px 900px -8px;}
+h1.index-heading {font-size: 70px;border: 150px dotted rgb(100 58 86);border-top: 150px dotted rgb(100 58 86);border-right: 150px dotted rgb(217, 235, 184);padding: 70px;padding-top: 100px;padding-bottom: 100px; margin: 0px 0px 100px 0px;}
 
 h3 {font-size: 30px;margin-top: 20px;}
 
